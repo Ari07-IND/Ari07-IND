@@ -13,18 +13,18 @@
 <br/><br/>
 
 <a href="https://github.com/Ari07-IND">
-<img src="https://img.shields.io/badge/-Ari07--IND-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" alt="github"/>
+<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="github"/>
 </a>&nbsp;
 
 <a href="https://www.linkedin.com/in/aritra-chatterjee-b76726303">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="linkedin"/>
 </a>&nbsp;
 
 <a href="mailto:ac7605859@gmail.com">
-<img src="https://img.shields.io/badge/-ac7605859%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=7ee787" alt="email"/>
+<img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=7ee787" alt="email"/>
 </a>&nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=Ari07-IND&style=flat-square&color=7ee787&label=views" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Ari07-IND&style=for-the-badge&color=7ee787&label=views" alt="profile views"/>
 
 <br/><br/>
 

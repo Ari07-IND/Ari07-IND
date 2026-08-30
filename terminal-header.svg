@@ -27,15 +27,6 @@
       <stop offset="1" stop-color="#120c1a"/>
     </linearGradient>
 
-    <!-- Glowing Accent Line -->
-    <linearGradient id="neonAccent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#A970FF" stop-opacity="0"/>
-      <stop offset="0.2" stop-color="#A970FF" stop-opacity="1"/>
-      <stop offset="0.5" stop-color="#ffffff" stop-opacity="1"/>
-      <stop offset="0.8" stop-color="#60E185" stop-opacity="1"/>
-      <stop offset="1" stop-color="#60E185" stop-opacity="0"/>
-    </linearGradient>
-
     <!-- Glow Filters -->
     <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
@@ -272,10 +263,5 @@
     </rect>
 
   </g>
-
-  <!-- Glowing Accent Line at the very bottom -->
-  <rect x="25" y="593" width="0" height="2" fill="url(#neonAccent)" filter="url(#softGlow)">
-    <animate attributeName="width" from="0" to="1150" dur="1.8s" begin="6.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
-  </rect>
 
 </svg>

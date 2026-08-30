@@ -7,23 +7,22 @@
       <stop offset="0.88" stop-color="#30363d" stop-opacity="1"/>
       <stop offset="1" stop-color="#30363d" stop-opacity="0"/>
     </linearGradient>
-    <!-- Change the bright green #7ee787 to deep onion-like purple #9C27B0 -->
     <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#9C27B0" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#9C27B0" stop-opacity="1"/>
-      <stop offset="1" stop-color="#9C27B0" stop-opacity="0"/>
+      <stop offset="0" stop-color="#7ee787" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7ee787" stop-opacity="1"/>
+      <stop offset="1" stop-color="#7ee787" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <!-- base line (Gray, stays unchanged) -->
+  <!-- base line -->
   <rect x="0" y="7" width="1200" height="1.5" fill="url(#base)"/>
 
-  <!-- traveling pulse (Fill updated to purple through #pulse def) -->
+  <!-- traveling pulse -->
   <g>
     <rect x="0" y="6" width="180" height="3" rx="1.5" fill="url(#pulse)"/>
     <animateTransform attributeName="transform" type="translate" from="-200 0" to="1220 0" dur="3.4s" repeatCount="indefinite"/>
   </g>
 
-  <!-- center node (Fill dark, stroke updated from green to purple #9C27B0) -->
-  <rect x="596" y="4" width="8" height="8" transform="rotate(45 600 8)" fill="#161b22" stroke="#9C27B0" stroke-width="1" opacity="0.9"/>
+  <!-- center node -->
+  <rect x="596" y="4" width="8" height="8" transform="rotate(45 600 8)" fill="#161b22" stroke="#7ee787" stroke-width="1" opacity="0.9"/>
 </svg>

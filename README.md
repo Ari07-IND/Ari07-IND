@@ -17,7 +17,7 @@
 </a>&nbsp;
 
 <a href="https://www.linkedin.com/in/aritra-chatterjee-b76726303">
-<img src="https://img.shields.io/badge/-linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
 </a>&nbsp;
 
 <a href="mailto:ac7605859@gmail.com">

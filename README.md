@@ -1,142 +1,119 @@
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║              ARITRA CHATTERJEE · PROFILE README             ║
+║        theme: Linux terminal · hacker · GitHub dark         ║
+║        accent: #7ee787                                      ║
+╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img src="./terminal-header.svg" width="100%" alt="Aritra Chatterjee Linux Terminal"/>
-
-<br/>
-
-<samp>
-AI / ML · ROBOTICS · COMPUTER VISION · EMBEDDED AI · RESEARCH
-</samp>
+<img src="terminal-header.svg" width="100%" alt="Aritra Chatterjee — AI/ML · Robotics · Research"/>
 
 <br/><br/>
 
 <a href="https://github.com/Ari07-IND">
-<img src="https://img.shields.io/badge/GitHub-Ari07--IND-0d1117?style=for-the-badge&logo=github&logoColor=7ee787" />
-</a>
-&nbsp;
+<img src="https://img.shields.io/badge/-Ari07--IND-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" alt="github"/>
+</a>&nbsp;
+
 <a href="https://www.linkedin.com/in/aritra-chatterjee-b76726303">
-<img src="https://img.shields.io/badge/LinkedIn-Aritra_Chatterjee-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
-</a>
-&nbsp;
+<img src="https://img.shields.io/badge/-linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="linkedin"/>
+</a>&nbsp;
+
 <a href="mailto:ac7605859@gmail.com">
-<img src="https://img.shields.io/badge/Email-ac7605859%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=7ee787" />
-</a>
+<img src="https://img.shields.io/badge/-ac7605859%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=7ee787" alt="email"/>
+</a>&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=Ari07-IND&style=flat-square&color=7ee787&label=views" alt="profile views"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ari07-IND&style=flat-square&color=7ee787&label=PROFILE+VIEWS" />
+<img src="divider.svg" width="100%" alt=""/>
 
 </div>
 
----
+## <samp>$ whoami</samp>
 
-<div align="center">
+<table border="0" width="100%">
+<tr>
 
-<samp>
+<td width="62%" valign="top">
 
-`aritra@github:~$ whoami`
+<samp>B.Tech CSE (AI) · AI/ML · robotics · systems explorer</samp>
 
-</samp>
+<br/><br/>
 
-</div>
-
-## `$ whoami`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    USER PROFILE                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  name       : Aritra Chatterjee                              │
-│  handle     : Ari07-IND                                      │
-│  role       : AI / ML · Robotics · Systems Explorer           │
-│  degree     : B.Tech CSE (AI)                                │
-│  institute  : IEM Newtown                                   │
-│  university : UEM Kolkata                                   │
-│  location   : West Bengal, India                            │
-│                                                              │
-│  status     : ● ONLINE                                       │
-│  mode       : ● BUILD                                        │
-│  research   : ● ACTIVE                                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I'm **Aritra Chatterjee**, a Computer Science student specializing in **Artificial Intelligence**, interested in the intersection of intelligent software, physical systems and real-world engineering.
+I'm Aritra Chatterjee — a Computer Science student specializing in **Artificial Intelligence**, interested in the intersection of intelligent software, physical systems and real-world engineering.
 
 I like understanding the problem before touching the implementation, experimenting with ideas, and turning concepts into systems that can actually work outside a notebook.
 
-> `learn deeply · build deliberately · iterate relentlessly`
+> <samp>learn deeply · build deliberately · iterate relentlessly</samp>
 
-### `CURRENTLY RUNNING`
+<br/>
+
+<samp>NOW</samp>
+
+* 🟢 **AI / ML** — exploring intelligent learning systems
+* 🟢 **Computer Vision** — perception, image understanding & visual intelligence
+* 🟢 **Robotics** — sensors, automation & intelligent machines
+* 🟢 **Embedded AI** — connecting intelligence with physical systems
+* 🟢 **Research** — exploring technology with real-world impact
+
+<br/>
+
+<samp>OPEN TO</samp>
+
+* meaningful technical collaboration
+* research & innovation
+* AI / robotics experiments
+* hackathons & engineering challenges
+* building systems that solve real problems
+
+</td>
+
+<td width="4%"></td>
+
+<td width="34%" valign="middle" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="coding workspace"/>
+
+<br/><br/>
+
+<sub><samp>// powered by curiosity · caffeine · terminal</samp></sub>
+
+<br/><br/>
 
 ```text
-[●] AI / ML
-[●] Computer Vision
-[●] Robotics
-[●] Embedded AI
-[●] Research
-[●] Intelligent Systems
+┌──────────────────────┐
+│ SYSTEM STATUS        │
+├──────────────────────┤
+│ OS       :: Linux    │
+│ MODE     :: BUILD    │
+│ AI       :: ACTIVE   │
+│ RESEARCH :: ACTIVE   │
+│ STATUS   :: ONLINE   │
+└──────────────────────┘
 ```
 
-### `OPEN TO`
+</td>
 
-```text
-→ meaningful technical collaboration
-→ research & innovation
-→ AI / robotics experiments
-→ hackathons & engineering challenges
-→ building systems that solve real problems
-```
-
----
+</tr>
+</table>
 
 <div align="center">
-<img src="./divider.svg" width="100%" alt="terminal divider"/>
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
-# `$ systemctl status aritra`
+## <samp>$ cat /etc/identity</samp>
 
-```text
-● aritra.service - AI / Robotics Development Environment
-
-     Loaded: loaded
-     Active: active (running)
-
-     ├── artificial-intelligence.service    [ ACTIVE ]
-     ├── machine-learning.service           [ ACTIVE ]
-     ├── deep-learning.service              [ ACTIVE ]
-     ├── computer-vision.service            [ ACTIVE ]
-     ├── robotics.service                   [ ACTIVE ]
-     ├── embedded-ai.service                [ ACTIVE ]
-     ├── edge-ai.service                    [ ACTIVE ]
-     ├── research.service                   [ ACTIVE ]
-     └── curiosity.service                  [ ALWAYS ]
-
-     Process:
-       learning       → running
-       experimenting  → running
-       researching    → running
-       building       → running
-       improving      → running
-```
-
----
-
-<div align="center">
-<img src="./divider.svg" width="100%" alt="terminal divider"/>
-</div>
-
-# `$ cat /etc/identity`
-
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 
 <td width="50%" valign="top">
 
-### `USER`
-
 ```text
+USER
+────────────────────────────────
 name       : Aritra Chatterjee
 handle     : Ari07-IND
 location   : West Bengal, India
@@ -147,9 +124,9 @@ status     : student / builder
 
 <td width="50%" valign="top">
 
-### `EDUCATION`
-
 ```text
+EDUCATION
+────────────────────────────────
 degree     : B.Tech CSE (AI)
 institute  : IEM Newtown
 university : UEM Kolkata
@@ -161,65 +138,107 @@ focus      : Artificial Intelligence
 </tr>
 </table>
 
----
+## <samp>$ systemctl status aritra</samp>
 
-# `$ cat stack.json`
+```text
+● aritra.service - AI / Robotics Development Environment
+     Loaded: loaded
+     Active: active (running)
 
-## `languages`
+     ├── artificial-intelligence.service    [ ACTIVE ]
+     ├── machine-learning.service           [ ACTIVE ]
+     ├── computer-vision.service             [ ACTIVE ]
+     ├── robotics.service                    [ ACTIVE ]
+     ├── embedded-ai.service                 [ ACTIVE ]
+     ├── research.service                    [ ACTIVE ]
+     └── curiosity.service                   [ ALWAYS ]
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark&perline=5" />
-
-<br/>
-
-<samp>Python · C · C++ · Java · JavaScript</samp>
-
-</div>
-
-## `ai / machine learning`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=5" />
-
-<br/>
-
-<samp>Machine Learning · Deep Learning · Computer Vision · Neural Networks</samp>
-
-</div>
-
-## `hardware / embedded`
+     Process:
+       learning      → running
+       experimenting → running
+       building      → running
+       improving     → running
+```
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=5" />
-
-<br/>
-
-<samp>Arduino · ESP32 · Raspberry Pi · Sensors · IoT · Edge AI</samp>
-
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
-## `development environment`
+## <samp>$ cat stack.json</samp>
+
+<table border="0" width="100%">
+<tr>
+
+<td align="center" valign="top" width="50%">
+
+**languages**
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark&perline=5" alt="languages"/>
+
+<br/><br/>
+
+<sub>
+Python · C · C++ · Java · JavaScript
+</sub>
+
+<br/><br/>
+
+**ai / machine learning**
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=5" alt="AI stack"/>
+
+<br/><br/>
+
+<sub>
+Machine Learning · Deep Learning · Computer Vision
+</sub>
+
+</td>
+
+<td width="4%"></td>
+
+<td align="center" valign="top" width="46%">
+
+**hardware / embedded**
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark&perline=5" alt="hardware"/>
+
+<br/><br/>
+
+<sub>
+Arduino · ESP32 · Raspberry Pi · Sensors · IoT
+</sub>
+
+<br/><br/>
+
+**development**
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&theme=dark&perline=5" alt="development"/>
+
+<br/><br/>
+
+<sub>
+Git · GitHub · Linux · VS Code · Docker
+</sub>
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&theme=dark&perline=5" />
-
-<br/>
-
-<samp>Linux · Git · GitHub · VS Code · Docker</samp>
-
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
----
-
-<div align="center">
-<img src="./divider.svg" width="100%" alt="terminal divider"/>
-</div>
-
-# `$ ls -la ~/research`
+## <samp>$ ls -la ~/research</samp>
 
 ```text
 drwxr-xr-x  artificial-intelligence/
@@ -234,14 +253,15 @@ drwxr-xr-x  assistive-technology/
 drwxr-xr-x  human-centered-ai/
 ```
 
-<table width="100%">
+<table width="100%" border="0">
 <tr>
 
 <td width="33%" align="center">
 
 ### `01`
 
-**ARTIFICIAL INTELLIGENCE**
+**ARTIFICIAL
+INTELLIGENCE**
 
 Learning systems
 Neural networks
@@ -316,9 +336,7 @@ Real-world impact
 </tr>
 </table>
 
----
-
-# `$ tail -f /var/log/learning.log`
+## <samp>$ tail -f /var/log/learning.log</samp>
 
 ```text
 [INFO] loading machine-learning.................... OK
@@ -330,264 +348,216 @@ Real-world impact
 [INFO] loading system-design....................... OK
 [INFO] loading research-methodology................. OK
 
-[INFO] learning_mode       = CONTINUOUS
-[INFO] curiosity_level     = HIGH
-[INFO] experimentation     = ENABLED
-[INFO] build_mode          = ENABLED
-[INFO] improvement_loop    = INFINITE
+[INFO] learning_mode = CONTINUOUS
+[INFO] curiosity_level = HIGH
+[INFO] build_mode = ENABLED
 ```
 
----
-
 <div align="center">
-<img src="./divider.svg" width="100%" alt="terminal divider"/>
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
-# `$ git log --stat`
+## <samp>$ git log --stat</samp>
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Ari07-IND&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9&border_radius=10"
-height="180"
-alt="GitHub statistics"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ari07-IND&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=7ee787&text_color=8b949e&count_private=true&include_all_commits=true&border_radius=6" height="165" alt="GitHub statistics"/>
+
+ 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ari07-IND&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8&border_radius=6" height="165" alt="top languages"/>
 
 <br/><br/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ari07-IND&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&border_radius=10"
-height="180"
-alt="Top languages"
-/>
+<img src="https://streak-stats.demolab.com/?user=Ari07-IND&hide_border=true&background=0d1117&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=484f58&border_radius=6&timezone=Asia%2FKolkata" width="86%" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img
-src="https://streak-stats.demolab.com/?user=Ari07-IND&theme=github-dark&hide_border=true&background=0d1117&ring=7ee787&fire=7ee787&currStreakLabel=7ee787&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=10&timezone=Asia%2FKolkata"
-alt="GitHub streak"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Ari07-IND&bg_color=0d1117&color=8b949e&line=7ee787&point=ffffff&area=true&hide_border=true&radius=10&custom_title=Aritra%27s%20Contribution%20Activity"
-width="95%"
-alt="Contribution activity"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ari07-IND&bg_color=0d1117&color=8b949e&line=7ee787&point=c9d1d9&area=true&area_color=7ee787&hide_border=true&radius=6&custom_title=contribution%20activity" width="92%" alt="Contribution activity"/>
 
 </div>
-
----
 
 <div align="center">
-<img src="./divider.svg" width="100%" alt="terminal divider"/>
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
-# `$ ./achievements.sh`
+## <samp>$ ./achievements.sh</samp>
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=Ari07-IND&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
-alt="GitHub achievements"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ari07-IND&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub achievements"/>
 
 <br/><br/>
 
-<samp>
-
-achievement system :: ACTIVE
-contribution streak :: BUILDING
-learning streak :: UNLIMITED
-
-</samp>
+<sub><samp>achievement unlocked → by building, contributing & staying consistent</samp></sub>
 
 </div>
 
----
-
-# `$ cat hackathons.md`
+## <samp>$ cat hackathons.md</samp>
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                    HACKATHON MODE                            │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  IDEA        → create a direction                            │
-│  RESEARCH    → understand the problem                        │
-│  ARCHITECT   → design before implementation                  │
-│  BUILD       → prototype under constraints                   │
-│  TEST        → break assumptions                             │
-│  ITERATE     → improve rapidly                              │
-│  SHIP        → deliver something real                        │
+│  BUILD        → under constraints                            │
+│  THINK        → under pressure                               │
+│  SHIP         → before the clock runs out                    │
+│  LEARN        → from every iteration                         │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-I'm interested in hackathons as compressed engineering environments where **research, design, implementation and presentation** have to converge quickly.
+I'm interested in hackathons as compressed engineering environments — places where research, design, implementation and presentation have to converge quickly.
 
 ```text
 hackathon mindset:
 
-        IDEA
-          ↓
-      RESEARCH
-          ↓
-      ARCHITECT
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-      ITERATE
-          ↓
-        SHIP
+    IDEA
+      ↓
+    VALIDATE
+      ↓
+    ARCHITECT
+      ↓
+    BUILD
+      ↓
+    TEST
+      ↓
+    SHIP
 ```
 
----
-
 <div align="center">
-<img src="./divider.svg" width="100%" alt="terminal divider"/>
+<img src="divider.svg" width="100%" alt=""/>
 </div>
 
-# `$ cat philosophy.md`
+## <samp>$ cat philosophy.md</samp>
 
-<table width="100%">
+<table border="0" width="100%">
 <tr>
 
-<td width="25%" align="center">
+<td valign="top" width="25%" align="center">
 
-### `01`
+<kbd> 01 </kbd>
 
-**UNDERSTAND**
+**understand**
 
-<samp>problem first</samp>
+<br/>
+
+<sub><samp>problem first</samp></sub>
+
+<br/><br/>
 
 Understand the domain before writing the solution.
 
 </td>
 
-<td width="25%" align="center">
+<td valign="top" width="25%" align="center">
 
-### `02`
+<kbd> 02 </kbd>
 
-**RESEARCH**
+**research**
 
-<samp>question assumptions</samp>
+<br/>
+
+<sub><samp>question assumptions</samp></sub>
+
+<br/><br/>
 
 Explore the problem deeply before deciding how to solve it.
 
 </td>
 
-<td width="25%" align="center">
+<td valign="top" width="25%" align="center">
 
-### `03`
+<kbd> 03 </kbd>
 
-**BUILD**
+**build**
 
-<samp>prototype early</samp>
+<br/>
+
+<sub><samp>prototype early</samp></sub>
+
+<br/><br/>
 
 A working imperfect system teaches more than an unfinished idea.
 
 </td>
 
-<td width="25%" align="center">
+<td valign="top" width="25%" align="center">
 
-### `04`
+<kbd> 04 </kbd>
 
-**ITERATE**
+**iterate**
 
-<samp>improve continuously</samp>
+<br/>
 
-Test → learn → refine → keep moving.
+<sub><samp>improve continuously</samp></sub>
+
+<br/><br/>
+
+Test, learn, refine and keep moving forward.
 
 </td>
 
 </tr>
 </table>
 
----
-
-# `$ cat /etc/motd`
+## <samp>$ cat /etc/motd</samp>
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│       BUILD TECHNOLOGY THAT SOLVES REAL PROBLEMS.            │
-│                                                              │
-│       Learn deeply.                                          │
-│       Think independently.                                   │
-│       Experiment fearlessly.                                 │
-│       Engineer deliberately.                                 │
-│       Keep improving.                                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "The goal isn't to build the most complicated system.      │
+│   It's to build the right system for the problem."          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
----
-
-<div align="center">
-<img src="./divider.svg" width="100%" alt="terminal divider"/>
-</div>
-
-# `$ ./connect.sh`
+## <samp>$ ./connect.sh</samp>
 
 <div align="center">
 
 <a href="https://github.com/Ari07-IND">
-<img src="https://img.shields.io/badge/GITHUB-Ari07--IND-0d1117?style=for-the-badge&logo=github&logoColor=7ee787"/>
-</a>
-
- 
+<img src="https://img.shields.io/badge/-github-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" alt="GitHub"/>
+</a>&nbsp;
 
 <a href="https://www.linkedin.com/in/aritra-chatterjee-b76726303">
-<img src="https://img.shields.io/badge/LINKEDIN-Aritra_Chatterjee-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/>
-</a>
-
- 
+<img src="https://img.shields.io/badge/-linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
+</a>&nbsp;
 
 <a href="mailto:ac7605859@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ac7605859%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=7ee787"/>
+<img src="https://img.shields.io/badge/-email-0d1117?style=flat-square&logo=gmail&logoColor=7ee787" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<samp>
-
-`aritra@github:~$ echo "let's build something meaningful"`
-
-</samp>
+<sub>
+<samp>aritra@github:~$ echo "let's build something that matters"</samp>
+</sub>
 
 <br/><br/>
 
-<img src="./divider.svg" width="100%" alt="terminal divider"/>
+<img src="divider.svg" width="100%" alt=""/>
 
 <br/><br/>
 
-<samp>
-
-west bengal, india · UTC+5:30 · B.Tech CSE (AI) · IEM Newtown · UEM Kolkata
-
-</samp>
+<sub>
+<samp>west bengal, india · UTC+5:30 · b.tech cse (ai) · iem newtown · uem kolkata</samp>
+</sub>
 
 <br/><br/>
 
-<img
-src="https://komarev.com/ghpvc/?username=Ari07-IND&style=flat-square&color=7ee787&label=PROFILE+VIEWS"
-alt="Profile views"
-/>
+<img src="https://komarev.com/ghpvc/?username=Ari07-IND&style=flat-square&color=7ee787&label=profile%20views" alt="views"/>
 
 <br/><br/>
 
-<samp>
-
-`aritra@github:~$ exit`
-
-</samp>
+<samp>aritra@github:~$ exit</samp>
 
 </div>
+<!--
+EOF
+-->
